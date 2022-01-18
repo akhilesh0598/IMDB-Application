@@ -1,0 +1,8 @@
+
+	In ClientImageUploader.cs file 
+
+
+	private static string ApiKey = "your api key";
+        private static string Bucket = "your bucket key";
+        private static string AuthEmail = "email@gmail.com";
+        private static string AuthPassword = "password";
